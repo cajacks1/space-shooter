@@ -16,21 +16,21 @@ Make a simple directory to keep all of these files inside the same folder.
 
 For example, I created StarShooter folder within the Downloads directory:
 
-![](https://github.com/cajacks1/space-shooter/tree/master/images/starshooter-folder.png)
+![](/images/starshooter-folder.png)
 
 Then, drag all of the downloaded files into the StarShooter directory and the folder will now have the files in there:
 
-![StarShooter-Directory](https://github.com/cajacks1/space-shooter/tree/master/images/starshooter-directory.png)
+![](/images/starshooter-directory.png)
 
 Next, extract StarShooter_Data.zip to the directory of your recently created folder.  
 
 In this example, Star Shooter is the designated folder to extract, not StarShooter_Data within the StarShooter directory:
 
-![Extract-StarShooter-Data](https://github.com/cajacks1/space-shooter/tree/master/images/extract-starshooter_data.png)
-![Destination-StarShooter-Data](https://github.com/cajacks1/space-shooter/tree/master/images/destination-starshooter_data.png)
+![](/images/extract-starshooter_data.png)
+![](/images/destination-starshooter_data.png)
 
 Now your folder should look something like this!  You do not need the StarShooter_Data.zip file anymore, so you may delete that file.
 
-![All-Documents-Ready](https://github.com/cajacks1/space-shooter/tree/master/images/all-documents-ready.png)
+![](/images/all-documents-ready.png)
 
 After that, your game should boot up and you should get the following screen:
