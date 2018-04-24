@@ -33,4 +33,4 @@ Now your folder should look something like this!  You do not need the StarShoote
 
 ![](/images/all-documents-ready.png)
 
-After that, your game should boot up and you should get the following screen:
+After that, your game should boot up StarShooter.exe and you should get the following screen:
