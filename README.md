@@ -10,7 +10,7 @@ Download the three files from the link above.
 
 The files should be under your Downloads folder like so:
 
-![Downloads-Folder](/space-shooter/tree/master/images/downloads-folder.png?raw=true)
+![Downloads-Folder](https://github.com/cajacks1/space-shooter/tree/master/images/downloads-folder.png)
 
 Make a simple directory to keep all of these files inside the same folder.  
 
