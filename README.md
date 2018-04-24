@@ -37,9 +37,16 @@ You do not need the StarShooter_Data.zip file anymore, so you may delete that fi
 
 If you do, it could look like this now:
 
+![](/images/DisplayOne.png)
 
+After that, your game should boot up StarShooter.exe and you would get a pop-up screen the first time:
 
-After that, your game should boot up StarShooter.exe and you should get the following screen:
+![](/images/FirstOpen.png)
 
+To fix this issue, just click More Info and then Run Anyway that's displayed below:
 
-# Common Download Issues
+![](/images/MoreInfo.png)
+
+You should have this page now! Now you're good to go.
+
+![](/images/GameMenu.png)
