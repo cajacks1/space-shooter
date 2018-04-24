@@ -29,9 +29,15 @@ In this example, Star Shooter is the designated folder to extract, not StarShoot
 ![](/images/extract-starshooter_data.png)
 ![](/images/destination-starshooter_data.png)
 
-Now your folder should look something like this!  You do not need the StarShooter_Data.zip file anymore, so you may delete that file.
+Now your folder should look something like this!
 
 ![](/images/all-documents-ready.png)
+
+You do not need the StarShooter_Data.zip file anymore, so you may delete that file.
+
+If you do, it could look like this:
+
+
 
 After that, your game should boot up StarShooter.exe and you should get the following screen:
 
