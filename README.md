@@ -36,7 +36,7 @@ You do not need the StarShooter_Data.zip file anymore, so you may delete that fi
 
 If you do, it could look like this now:
 
-![](/images/DisplayOne.png)
+![](/images/DisplayOne.PNG)
 
 After that, your game should boot up StarShooter.exe and you would get a pop-up screen the first time:
 
