@@ -16,7 +16,7 @@ Make a simple directory to keep all of these files inside the same folder.
 
 For example, I created StarShooter folder within the Downloads directory:
 
-![StarShooter-Folder](https://github.com/cajacks1/space-shooter/tree/master/images/starshooter-folder.png)
+![](https://github.com/cajacks1/space-shooter/tree/master/images/starshooter-folder.png)
 
 Then, drag all of the downloaded files into the StarShooter directory and the folder will now have the files in there:
 
