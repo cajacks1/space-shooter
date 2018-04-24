@@ -10,7 +10,7 @@ Download the three files from the link above.
 
 The files should be under your Downloads folder like so:
 
-![alt text(https://github.com/cajacks1/space-shooter/images/downloads-folder.png)
+![alt text](https://github.com/cajacks1/space-shooter/images/downloads-folder.png)
 
 Make a simple directory to keep all of these files inside the same folder.  For example, I created StarShooter folder within the Downloads directory:
 
