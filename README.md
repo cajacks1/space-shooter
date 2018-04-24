@@ -6,7 +6,11 @@ YouTube Link for CSCI 490 Project: https://www.youtube.com/watch?v=iZ_W-9FcD5Q&f
 Download the game from itch.io by following this link: https://cajacks1.itch.io/star-shooter
 
 # Itch.io Download Instructions
-Download the three files below.  The directory should be under your Downloads folder like so:
+Download the three files from the link above.
+
+The files should be under your Downloads folder like so:
+
+![alt text]
 
 Make a simple directory to keep all of these files inside the same folder.  For example, I created StarShooter folder within the Downloads directory:
 
