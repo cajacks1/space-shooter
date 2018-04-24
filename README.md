@@ -35,7 +35,7 @@ Now your folder should look something like this!
 
 You do not need the StarShooter_Data.zip file anymore, so you may delete that file.
 
-If you do, it could look like this:
+If you do, it could look like this now:
 
 
 
