@@ -26,7 +26,6 @@ Next, extract StarShooter_Data.zip to the directory of your recently created fol
 
 In this example, Star Shooter is the designated folder to extract, not StarShooter_Data within the StarShooter directory:
 
-![](/images/extract-starshooter_data.png)
 ![](/images/destination-starshooter_data.png)
 
 Now your folder should look something like this!
