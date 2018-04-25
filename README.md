@@ -8,7 +8,11 @@ Download the game from itch.io by following this link: https://cajacks1.itch.io/
 # Itch.io Download Instructions
 Download the three files from the link above.
 
-The files should be under your Downloads folder like so:
+You may come across a problem when you download UnityPlayer.dll.
+
+But all you need to do is click "Keep" and the file will be safe to download.
+
+After your downloads, the files should be under your Downloads folder like so:
 
 ![](/images/downloads-folder.png)
 
